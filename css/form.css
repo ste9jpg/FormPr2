@@ -21,8 +21,10 @@ body{
   position: absolute;
   justify-content: center;
   border-radius: 15px;
-  padding: 50px;
+  padding: 70px;
   margin: 20px 40px 60px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, .4);
   z-index: -1;
 } 
+
+
