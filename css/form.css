@@ -14,10 +14,10 @@ body{
   background: white;
   display: block;
   position: absolute;
-  top: 60%;
-  left: 70%;
-  right: 70%;
-  bottom: 60%;
+  top: 50%;
+  left: 60%;
+  right: 60%;
+  bottom: 50%;
   border-radius: 15px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, .4);
   z-index: -1;
