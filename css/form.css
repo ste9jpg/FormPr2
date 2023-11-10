@@ -3,9 +3,9 @@ body{
   height: 100vh;
   background: linear-gradient(
     to top,
-    white 0%,
-    white 50%,
-    #002b80 50%,
-    #002b80 100%
+    pink 0%,
+    pink 50%,
+    paleturquoise 50%,
+    paleturquoise 100%
   );
 } 
