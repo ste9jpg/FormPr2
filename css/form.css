@@ -32,6 +32,13 @@ body{
 /*Left side of form*/
 .contact-container{
 	max-width: 300px;
+	display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    max-width: 840px;
 }
 .contact-container, textarea{
 	max-width: 300px;
