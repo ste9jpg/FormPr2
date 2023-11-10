@@ -12,13 +12,12 @@ body{
 
 .form-body{
   background: white;
-  content: '';
   display: block;
   position: absolute;
-  top: 0;
-  left: 20px;
-  right: 20px;
-  bottom: 0;
+  top: 50px;
+  left: 50px;
+  right: 50px;
+  bottom: 50px;
   border-radius: 15px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, .4);
   z-index: -1;
