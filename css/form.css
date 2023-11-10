@@ -16,12 +16,12 @@ body{
 } 
 
 .form-body{
-	
   background: white;
   display: block;
   position: absolute;
   justify-content: center;
   border-radius: 15px;
+  padding: 30px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, .4);
   z-index: -1;
 } 
